@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ilkim</h1>
-- 🔭 I’m currently working on **a tarot reading app**
+- 🔭 I’m currently working on ** kaggle **
 
 - 🌱 I’m currently learning **NLP**
 
