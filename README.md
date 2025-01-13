@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm ilkim</h1>
-- 🔭 I’m currently working on data analysis
 
 - 📝 I regularly write articles on [https://medium.com/@ilkimiclalaydogan](https://medium.com/@ilkimiclalaydogan)
 
