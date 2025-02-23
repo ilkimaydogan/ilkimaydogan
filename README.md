@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ilkim</h1>
-
-- 📝 I regularly write articles on [https://medium.com/@ilkimiclalaydogan](https://medium.com/@ilkimiclalaydogan)
-
+- 👩‍💻 I am currently learning Swift, UIKit & SwiftUI
+- 📝 I sometimes write articles on [https://medium.com/@ilkimiclalaydogan](https://medium.com/@ilkimiclalaydogan)
 - 📫 How to reach me **ilkimiclalaydogan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
