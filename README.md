@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ilkim</h1>
 
-- 👩‍💻 I am currently learning Swift, UIKit & SwiftUI
 
 - 📝 I sometimes write articles on [https://medium.com/@ilkimiclalaydogan](https://medium.com/@ilkimiclalaydogan)
   
